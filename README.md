@@ -175,8 +175,8 @@ PNmovie/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/thphattt/PNmovie.git
-cd PNmovie
+git clone https://github.com/thphattt/QuickMovie.git
+cd QuickMovie
 ```
 
 ### 2. Cài đặt dependencies
